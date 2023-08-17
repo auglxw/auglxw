@@ -1,6 +1,6 @@
 ## Hello, I'm Augustine ! :wave:
 
-I'm a third-year undergraduate at Nanyang Technological University Singapore, majoring in Computer Science with a second major in Business. My interests lie in full-stack development and artificial intelligence. I am particularly keen to explore the realm of serverless applications! Please feel free to browse through my projects and I would love to hear any feedback on how I can improve! :computer:
+I'm a third-year undergraduate at Nanyang Technological University Singapore, majoring in Computer Science with a second major in Business. My interestslies in full-stack development and artificial intelligence. I am particularly keen to explore the realm of serverless applications! Please feel free to browse through my projects and I would love to hear any feedback on how I can improve! :computer:
 
 The technologies I have worked with include:
 
